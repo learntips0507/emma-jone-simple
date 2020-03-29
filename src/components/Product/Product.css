@@ -1,0 +1,22 @@
+h1,h2,h4,p{
+    text-align: justify;
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product-text{
+    padding-left: 20px;
+}
+.product-text h4{
+    color: blue;
+}
+button.btn-add{
+    background-color: goldenrod;
+    padding:5px 17px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    border: 1px solid lightblue;
+    cursor: pointer;
+    border-radius: 5px;
+}
